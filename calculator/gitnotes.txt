@@ -1,4 +1,4 @@
-https://github.com/Globalpy/practiceopensource-.git
+https://github.com/Globalpy/myopensource.git
 
 To set your global username/email configuration:
 Open the command line.
